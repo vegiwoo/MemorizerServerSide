@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "MemorizerServerSide",
     platforms: [
-        .macOS(.v11)
+        .macOS(.v12)
     ],
     dependencies: [
         .package(url: "https://github.com/vapor/vapor.git", from: "4.0.0"),
