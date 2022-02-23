@@ -1,12 +1,12 @@
 # MemorizerServerSide
 Проект для разработки серверной части сервиса для обучения и интервального повторения учебных материалов 
 
-<a name="содержание"></a>
-1. [Запуск приложения](запуск_приложения)
-2. [Полезные ресурсы](полезные_ресурсы)
+<a name="Content"></a>
+1. [Запуск приложения](Application_launch)
+2. [Полезные ресурсы](Useful_Resources)
 
-[В начало](содержание)
-# Запуск приложения <a name="запуск_приложения"></a> 
+[В начало](Content)
+# Запуск приложения <a name="Application_launch"></a> 
 При запуске приложения оно ожидает следующие переменные окружения: 
 |Имя переменной|Назначение|Пояснение|
 |:------|:-----|:------|
@@ -15,6 +15,6 @@
 Подробнее о работе с переменными окружения в Vapor - [Environment](https://docs.vapor.codes/4.0/environment/)
 
 ---
-[В начало](содержание)
-# Полезные ресурсы <a name="полезные_ресурсы"></a> 
+[В начало](Content)
+# Полезные ресурсы <a name="Useful_Resources"></a> 
 - [Sharing Swift Code Between iOS and Server Applications](https://www.raywenderlich.com/20029037-sharing-swift-code-between-ios-and-server-applications)
